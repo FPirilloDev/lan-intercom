@@ -1,8 +1,3 @@
-<!--
-  README TEMPLATE — adaptable. This is a setup/documentation project (no code).
-  <!-- ADD:* --> markers show where to grow it. Spanish version: README.es.md
--->
-
 # 🖥️🔌🖥️ LAN Intercom — Two-PC Shared Workstation
 
 **A home networking setup that makes two independent Windows PCs behave partly as a

@@ -1,8 +1,3 @@
-<!--
-  PLANTILLA README — adaptable. Proyecto de configuración/documentación (sin código).
-  Los marcadores <!-- ADD:* --> indican dónde crece. Inglés: README.md
--->
-
 # 🖥️🔌🖥️ Intercomunicador LAN — Puesto de trabajo con dos PCs
 
 **Una configuración casera de red que hace que dos PCs Windows independientes se
